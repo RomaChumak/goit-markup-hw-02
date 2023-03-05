@@ -1,5 +1,5 @@
 :root {
-  --addresscolor: #434455;
+  --contactscolor: #434455;
   --navcolor: #2e2f42;
 }
 body {
@@ -41,7 +41,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
+  color: var(--contactscolor);
 }
 .address {
   font-style: normal;
@@ -50,7 +50,7 @@ body {
 .nav:focus {
   color: #404bbf;
 }
-.address-link,
+.address-link:hover,
 .address-link:focus {
   color: #404bbf;
 }
