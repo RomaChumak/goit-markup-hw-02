@@ -36,7 +36,7 @@ body {
   letter-spacing: 0.02em;
   color: var(--navcolor);
 }
-.address {
+.address-link {
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -48,8 +48,8 @@ body {
 .nav:focus {
   color: #404bbf;
 }
-.address:hover,
-.address:focus {
+.address-link:hover,
+.address-link:focus {
   color: #404bbf;
 }
 /* hero */
