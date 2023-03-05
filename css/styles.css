@@ -36,7 +36,7 @@ body {
   letter-spacing: 0.02em;
   color: var(--navcolor);
 }
-.address-contacts {
+.address-link {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -50,8 +50,8 @@ body {
 .nav:focus {
   color: #404bbf;
 }
-.address-contacts:hover,
-.address-contacts:focus {
+.address-link,
+.address-link:focus {
   color: #404bbf;
 }
 /*  hero */
