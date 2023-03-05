@@ -1,6 +1,7 @@
 :root {
   --addresscolor: #434455;
   --navcolor: #2e2f42;
+  --hovercolor: #404bbf;
 }
 body {
   font-family: "Roboto", sans-serif;
@@ -48,11 +49,11 @@ body {
 }
 .nav:hover,
 .nav:focus {
-  color: #404bbf;
+  color: var(--hovercolor);
 }
 .address-link:hover,
 .address-link:focus {
-  color: #404bbf;
+  color: var(--hovercolor);
 }
 /*  hero */
 .hero {
