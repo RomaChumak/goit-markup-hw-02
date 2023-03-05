@@ -50,11 +50,11 @@ body {
 .nav:focus {
   color: #404bbf;
 }
-/* .address-link:hover,
+.address-link:hover,
 .address-link:focus {
   color: #404bbf;
-} */
-/* hero */
+}
+/*  hero */
 .hero {
   background: #2e2f42;
 }
